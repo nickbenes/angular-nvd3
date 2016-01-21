@@ -1,12 +1,12 @@
 {
     "title": "AngularJS-nvD3",
     "name": "angular-nvd3",
-    "version": "1.0.5",
+    "version": "1.0.5-nb",
     "description": "An AngularJS directive for NVD3.js reusable charting library",
-    "homepage": "http://krispo.github.io/angular-nvd3",
+    "homepage": "https://github.com/nickbenes/angular-nvd3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/krispo/angular-nvd3.git"
+        "url": "https://github.com/nickbenes/angular-nvd3.git"
     },
     "main": "index.js",
     "keywords": [
@@ -19,11 +19,11 @@
         "svg"
     ],
     "bugs": {
-        "url": "https://github.com/krispo/angular-nvd3/issues"
+        "url": "https://github.com/nickbenes/angular-nvd3/issues"
     },
-    "license": "MIT License",
+    "license": "MIT",
     "author": {
-        "name": "Konstantin Skipor"
+        "name": "Nick Benes"
     },
     "devDependencies": {
         "grunt": "^0.4.4",
@@ -37,7 +37,7 @@
         "angular": "^1.x",
         "angular-mocks": "^1.x",
         "d3": "^3.3",
-        "nvd3": "^1.7.1"
+        "nvd3": "https://github.com/nickbenes/nvd3/tarball/master"
     },
     "scripts": {
         "test": "karma start test/karma.conf.js",
