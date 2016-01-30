@@ -1,6 +1,6 @@
 {
     "name": "angular-nvd3-nb",
-    "version": "v1.0.5-nb3",
+    "version": "v1.0.5-dash20160130",
     "description": "An AngularJS directive for NVD3.js reusable charting library (based on D3.js)",
     "main": [
       "dist/angular-nvd3.js"
@@ -28,7 +28,7 @@
     "dependencies": {
         "angular": "^1.x",
         "d3": "^3.3.13",
-        "nvd3-nb": "v1.8.1-nb2"
+        "nvd3-nb": "v1.8.1-dash20160130"
     },
     "ignore": [
         "**/.*",

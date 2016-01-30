@@ -1,7 +1,7 @@
 {
     "title": "AngularJS-nvD3",
     "name": "angular-nvd3-nb",
-    "version": "v1.0.5-nb3",
+    "version": "v1.0.5-dash20160130",
     "description": "An AngularJS directive for NVD3.js reusable charting library",
     "homepage": "https://github.com/nickbenes/angular-nvd3",
     "repository": {
@@ -37,7 +37,7 @@
         "angular": "^1.x",
         "angular-mocks": "^1.x",
         "d3": "^3.3",
-        "nvd3-nb": "v1.8.1-nb2"
+        "nvd3-nb": "v1.8.1-dash20160130"
     },
     "scripts": {
         "test": "karma start test/karma.conf.js",
